@@ -1,5 +1,10 @@
 
-
+body{
+	
+	display: block;
+	margin: auto;
+	padding: 20px 0;
+}
 header{
 	font-family: 'Notable', sans-serif;
 	background-color: #FF1F23;
@@ -27,6 +32,7 @@ footer{
 	
 }
 
+.
 
 #vida {
 	
