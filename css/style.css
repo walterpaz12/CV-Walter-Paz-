@@ -237,3 +237,22 @@ background: linear-gradient(to left, #7c3fdb,#ff4040, #EEF33C);
 	transition: all 0.8s ease-in-out;
 }
 
+#servicios h1{
+	
+	color: #4B6AFF; 
+	font-weight: 900;
+	font-size: 90px;
+	font-family: 'Roboto', sans-serif;
+	
+	}
+
+
+#servicios h3{
+	
+	color: #F85355; 
+	font-weight: 900;
+	font-family: 'Ubuntu', sans-serif;
+	
+	}
+
+
