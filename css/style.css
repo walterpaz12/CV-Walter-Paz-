@@ -1,0 +1,222 @@
+
+
+header{
+	font-family: 'Notable', sans-serif;
+	background-color: #FF1F23;
+	padding: 20px 0;
+	position: absolute;
+	width: 100%;
+	z-index: 999999;
+}
+
+header img{
+	width: 100px;
+	padding-top: 20px;
+
+}
+
+
+
+footer{
+	font-family: 'Notable', sans-serif;
+	background-color: #FF1F23;
+	padding: 20px 0;
+	position: absolute;
+	width: 100%;
+	z-index: 999999;
+	
+}
+
+
+#vida {
+	
+	background-image: url("../img/Testimonial-BG.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding: 300px;
+	
+}
+
+#vida p{
+
+	font-family: 'Roboto', sans-serif;
+	color: #FFFFFF;
+}
+
+
+.subtitulo{
+	
+	font-size: 20px;
+	margin-bottom: 40px;
+	width:40%;
+	margin:auto;
+	}
+	
+.circulo{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	line-height: 100px;
+	/*border: 1px solid #DDDDDD;*/
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 5px 2px #dddd;
+	font: normal;
+	font-size: 40px;
+	color: #FFFFFF;
+}
+	
+.circulo:hover 
+
+{
+	box-shadow: 0px 0px 5px 2px #dddd;
+	color: #E7F40F;
+	background-color: #F9474A;
+}
+		
+#vida h4{
+	font-weight: bolder;
+	
+}
+	
+#vida:hover{
+	background-image: url("../img/images.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #FFFFFF;
+}
+
+#vida:hover h3{
+	
+	color: #FFA1F8;
+}
+
+#vida h3{
+	
+	color: #FFFFFF;
+	padding: 10px;
+}
+	
+#vida h3:hover{
+	color: #FFEE06;
+	font:oblique;
+	font-weight: bolder;
+	
+}
+
+#slides_inicio h1{
+	
+	color: #4B6AFF; 
+	font-weight: 900;
+	font-size: 90px;
+	font-family: 'Roboto', sans-serif;
+	
+	}
+
+
+#slides_inicio h3{
+	
+	color: #F85355; 
+	font-weight: 900;
+	font-family: 'Ubuntu', sans-serif;
+	
+	}
+
+	#slides_inicio .carousel-caption{
+	display: grid;
+	align-items:center;
+	align-content: center;
+    height: 100%;
+	font-family: 'Roboto', sans-serif;
+}
+
+#photo{
+	
+	background-image: url("../img/footer-bg.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+footer{
+	padding: 20px;
+	background-color: #000791;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+}
+
+#mapa{
+	
+	background-position: center;
+	background-image: url("../img/descarga.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: -50px;
+}
+
+#slides_pasatiempos h1{
+	
+	color: #4B6AFF; 
+	font-weight: 900;
+	font-size: 90px;
+	font-family: 'Roboto', sans-serif;
+	
+	}
+
+
+#slides_pasatiempos h3{
+	
+	color: #F85355; 
+	font-weight: 900;
+	font-family: 'Ubuntu', sans-serif;
+	
+	}
+
+	#slides_pasatiempos .carousel-caption{
+	display: grid;
+	align-items:center;
+	align-content: center;
+    height: 100%;
+	font-family: 'Roboto', sans-serif;
+}
+
+#Pepper h2{
+	
+	
+
+	font-family: 'Roboto', sans-serif;
+	color: #FF0004;
+	letter-spacing: 10px;
+	text-align: center;
+	font-weight: 900;
+}
+
+#Pepper{
+	background-image: url("../img/fondo-patron-huesos_1377-70.jpg");
+   padding: 50px;
+	
+}
+
+#amigos{
+	
+	background-image: url("../img/footer-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+
+	
+}
+
+#amigos h1{
+	
+	color: #4B6AFF; 
+	font-weight: 900;
+	font-size: 90px;
+	font-family: 'Roboto', sans-serif;
+	
+	}
+
