@@ -220,3 +220,20 @@ footer{
 	
 	}
 
+.btn-walter {
+	font-family: Helvetica Neue;
+background: linear-gradient(to left, #7c3fdb,#ff4040, #EEF33C); 
+	color: #FFFFFF;
+	text-transform: uppercase;
+	border-radius: 0px;
+	padding: 20px;
+	border: 0px;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+.btn-walter:hover{
+	background: linear-gradient(to left, #7c3fdb, #3370e7, #EEF33C );
+	transition: all 0.8s ease-in-out;
+}
+
