@@ -247,12 +247,55 @@ background: linear-gradient(to left, #7c3fdb,#ff4040, #EEF33C);
 	}
 
 
-#servicios h3{
+#slides_pasatiempos h3{
 	
 	color: #F85355; 
 	font-weight: 900;
 	font-family: 'Ubuntu', sans-serif;
 	
 	}
+form#contacto textarea{
+	background-color: #f1f2f3;
+	border-radius: 0;
+	padding: 20px;
+	border: 0;
+	font-size: 13px;
+	
+	}
+
+#contact-form h2{
+	color: #000;
+}
+
+#contact-form h1{
+	color:#000;
+	
+}
+
+#contact-form ul{
+	color: #000;
+	font-weight: 600;
+}
+
+#contact-map{
+	background-image: url("../img/footer-bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;	
+}
+
+#contact-map .container{
+	
+	margin-top: -7%;
+	
+}
+
+#contact-form{
+	
+	margin-bottom: 5%;
+	padding-top: 20%;
+	display: block;
+	margin: auto;
+}
 
 
