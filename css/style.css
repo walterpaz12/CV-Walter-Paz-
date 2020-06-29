@@ -261,6 +261,7 @@ form#contacto textarea{
 	border: 0;
 	font-size: 13px;
 	
+	
 	}
 
 #contact-form h2{
@@ -296,6 +297,17 @@ form#contacto textarea{
 	padding-top: 20%;
 	display: block;
 	margin: auto;
+	background-color: #F02C2F;
 }
-
-
+#monk{
+	
+	margin-bottom: 5%;
+	padding-top: 20%;
+	display: block;
+	margin: auto;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-image: url("../img/Testimonial-BG.jpg");
+	color: aliceblue;
+}
